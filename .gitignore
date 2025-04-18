@@ -4,6 +4,14 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Doxygen
+/html
+/rtf
+/latex
+/xml
+/man
+/docbook
+
 ### STS ###
 .apt_generated
 .classpath
