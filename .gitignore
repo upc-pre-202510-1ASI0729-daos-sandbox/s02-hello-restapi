@@ -5,12 +5,12 @@ target/
 !**/src/test/**/target/
 
 # Doxygen
-/html
-/rtf
-/latex
-/xml
-/man
-/docbook
+html/
+rtf/
+latex/
+xml/
+man/
+docbook/
 
 ### STS ###
 .apt_generated
